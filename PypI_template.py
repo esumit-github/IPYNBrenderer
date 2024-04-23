@@ -37,7 +37,8 @@ list_of_files = [
     "LICENSE",
     "pyproject.toml",
     "setup.cfg",
-    "tox.ini"  # ython packages need to be tested in various environments
+    "README.md",
+    "tox.ini"  # python packages need to be tested in various environments
 ]
 
 
